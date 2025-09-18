@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning with boot.dev!
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/ff4c4a1a-5be8-459c-9bee-5a37250847c9/thumbnail" >
+</p>
 <!--
 **Finnesserr/Finnesserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
